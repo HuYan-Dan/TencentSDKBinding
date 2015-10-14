@@ -1,0 +1,5 @@
+D:\Projects\NET_Projects\TencentSDKBinding\TencentSDKBinding\bin\Debug\TencentSDKBinding_v2.9.3.dll
+D:\Projects\NET_Projects\TencentSDKBinding\TencentSDKBinding\bin\Debug\TencentSDKBinding_v2.9.3.pdb
+D:\Projects\NET_Projects\TencentSDKBinding\TencentSDKBinding\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Projects\NET_Projects\TencentSDKBinding\TencentSDKBinding\obj\Debug\TencentSDKBinding_v2.9.3.dll
+D:\Projects\NET_Projects\TencentSDKBinding\TencentSDKBinding\obj\Debug\TencentSDKBinding_v2.9.3.pdb

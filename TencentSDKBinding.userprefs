@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="TencentSDKBinding\TencentSDKBinding.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Baytrail0F7745C9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TencentSDKBinding\Transforms\Metadata.xml">
+    <Files>
+      <File FileName="TencentSDKBinding\obj\Debug\generated\src\Com.Tencent.Connect.Auth.AuthMap.cs" Line="37" Column="141" />
+      <File FileName="TencentSDKBinding\Transforms\Metadata.xml" Line="14" Column="96" />
+      <File FileName="TencentSDKBinding\obj\Debug\generated\src\Com.Tencent.Tauth.IUiListener.cs" Line="154" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

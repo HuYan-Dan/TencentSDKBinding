@@ -1,0 +1,18 @@
+﻿<metadata>
+	<!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+  <attr path="/api/package[@name='com.tencent.connect.auth']/class[@name='AuthMap']/field[@name='authMap']" name="managedName">authMap_</attr>
+  <attr path="/api/package[@name='com.tencent.tauth']/interface[@name='IUiListener']/method[@name='onComplete']" name="argsType">UiCompleteEventArgs</attr>
+  <attr path="/api/package[@name='com.tencent.open']/class[@name='b']" name="obfuscated">false</attr>
+   <attr path="/api/package[@name='com.tencent.open']/class[@name='a.b']" name="obfuscated">false</attr>
+   <attr path="/api/package[@name='com.tencent.open']/class[@name='a.a']" name="obfuscated">false</attr>
+   <attr path="/api/package[@name='com.tencent.open']/class[@name='a.a']" name="managedName">a_</attr>
+   <attr path="/api/package[@name='com.tencent.open']/class[@name='a']" name="obfuscated">false</attr>
+   <attr path="/api/package[@name='com.tencent.open']/interface[@name='c.a']" name="obfuscated">false</attr>
+   <attr path="/api/package[@name='com.tencent.open']/class[@name='c']" name="obfuscated">false</attr>
+</metadata>
